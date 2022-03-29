@@ -11,12 +11,12 @@ You can take it in turns to share your screen with your partner, as you work on 
 
 ### Part 1: Working as an owner, making changes to `dev`
 1. Choose a partner (ask for your partner's GitHub profile name)
-2. Visit your copy of this repository on GitHub
-3. Visit the Settings page and click on the Collaborators and Teams button near the top left, in the Access section
-4. Click on the green Add People button
-5. Enter your partner's GitHub profile name and select their name in the drop-down menu
-6. Select the Write radio button
-7. Click on Add [YourPartnersName] to this repository 
+2. ~Visit your copy of this repository on GitHub~
+3. ~Visit the Settings page and click on the Collaborators and Teams button near the top left, in the Access section~
+4. ~Click on the green Add People button~
+5. ~Enter your partner's GitHub profile name and select their name in the drop-down menu~
+6. ~Select the Write radio button~
+7. ~Click on Add [YourPartnersName] to this repository~
 8. Give your partner a link to this GitHub repository
 9. Clone your repository to your development machine. (Choose carefully which folder you use to hold your local repository.)
 10. _You will be the owner of your own repository._
@@ -32,11 +32,11 @@ Imagine that you have spoken with the client, and that you are acting with autho
    * Change the header
    * (Leave the list as it is)
    * Add a paragraph of text
-11. Run `git status` to see which files have changed
-12. Run `git diff` to see which files have been edited
-13. Use `git add .` to add your changes to git's staging area
-14. Use `git commit` to commit your changes
-15. When writing the commit message:
+16. Run `git status` to see which files have changed
+17. Run `git diff` to see which files have been edited
+18. Use `git add .` to add your changes to git's staging area
+19. Use `git commit` to commit your changes
+20. When writing the commit message:
    * Refer to the output of the `git status` and `git diff`
    * Create a short descriptive title
    * Provide details of all the changes that you have made
